@@ -1,2 +1,2 @@
 # THAPAR-SUMMER-SCHOOL
-**IoI Projects**
+**IoT Projects**
